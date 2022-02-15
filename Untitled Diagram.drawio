@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T03:48:17.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="2mHRYBIiXVwo52w0BozN" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T03:59:15.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="Z6yTWcqo4lmAXEGLYUcP" version="16.5.6" type="github">
   <diagram id="CAx_kXBRAw6pJOKKykD8" name="Page-1">
     <mxGraphModel dx="922" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,11 +166,17 @@
         <mxCell id="qVX0OotuIn6cAt5GHuXx-66" value="재진" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="710" y="1860" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#808080;" edge="1" parent="1" source="qVX0OotuIn6cAt5GHuXx-69" target="qVX0OotuIn6cAt5GHuXx-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-69" value="User정보 생성" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1970" width="140" height="30" as="geometry" />
+          <mxGeometry x="485" y="1934" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#808080;" edge="1" parent="1" source="qVX0OotuIn6cAt5GHuXx-71" target="qVX0OotuIn6cAt5GHuXx-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-71" value="Pet정보 생성" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
-          <mxGeometry x="485" y="2010" width="140" height="30" as="geometry" />
+          <mxGeometry x="485" y="1987" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="qVX0OotuIn6cAt5GHuXx-75">
           <mxGeometry relative="1" as="geometry">
@@ -181,20 +187,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#808080;" edge="1" parent="1" source="qVX0OotuIn6cAt5GHuXx-75" target="qVX0OotuIn6cAt5GHuXx-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-75" value="Chart정보 생성" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="485" y="2050" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.699;entryY=-0.056;entryDx=0;entryDy=0;fontSize=13;entryPerimeter=0;" edge="1" parent="1" source="qVX0OotuIn6cAt5GHuXx-79" target="qVX0OotuIn6cAt5GHuXx-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="750" y="2055" />
-              <mxPoint x="750" y="2100" />
+              <mxPoint x="745" y="2100" />
               <mxPoint x="681" y="2100" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#808080;" edge="1" parent="1" source="qVX0OotuIn6cAt5GHuXx-79" target="qVX0OotuIn6cAt5GHuXx-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="2030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-79" value="Chart정보 생성" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
-          <mxGeometry x="675" y="2025" width="140" height="30" as="geometry" />
+          <mxGeometry x="675" y="2016" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-80" value="등록 알림 메세지" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="580" y="2130" width="145" height="30" as="geometry" />
@@ -222,8 +237,11 @@
         <mxCell id="qVX0OotuIn6cAt5GHuXx-89" value="fullText Search로 병원 정보를 검색한다." style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="980" y="325" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#808080;" edge="1" parent="1" source="qVX0OotuIn6cAt5GHuXx-95" target="qVX0OotuIn6cAt5GHuXx-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-95" value="기존 차트 대화 종료" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=18;" vertex="1" parent="1">
-          <mxGeometry x="672" y="1984" width="145" height="30" as="geometry" />
+          <mxGeometry x="672" y="1964" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-99" value="보호자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="635" y="1840" width="30" height="60" as="geometry" />
@@ -240,13 +258,13 @@
         <mxCell id="qVX0OotuIn6cAt5GHuXx-105" value="환자 관리" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="2550" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qVX0OotuIn6cAt5GHuXx-106" value="&lt;font size=&quot;2&quot;&gt;핸드폰 번호를 통하여 초진인지 재진인지 구분하여 차트 생성을 해준다.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-106" value="&lt;font size=&quot;2&quot;&gt;환자와 수의사의 커뮤니케이션 문제를 해결하고 불필요한 전화를 줄일 수 있다.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="210" y="2550" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" source="qVX0OotuIn6cAt5GHuXx-106" target="qVX0OotuIn6cAt5GHuXx-108" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qVX0OotuIn6cAt5GHuXx-108" value="휴대폰 번호 입력" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-108" value="&lt;span style=&quot;font-size: small&quot;&gt;내원한 환자와 수의사가 사진, 동영상 등의 데이터를 기반으로 소통할 수 있다.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="520" y="2550" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#808080;" edge="1" parent="1" source="qVX0OotuIn6cAt5GHuXx-109" target="qVX0OotuIn6cAt5GHuXx-100">
@@ -254,6 +272,21 @@
         </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-109" value="코로나 명부 출력 가능" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="567" y="2240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-117" value="&lt;span style=&quot;font-size: small&quot;&gt;환자별로 공유해야 할 것을 업무공유에 남길 수 있다.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2640" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-118" value="&lt;span style=&quot;font-size: small&quot;&gt;접종 정보를 한 화면에서 같이 알 수 있다.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2730" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-119" value="예약 발송 관리" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2850" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-120" value="&lt;font size=&quot;2&quot;&gt;예약, 접종, 팔로우업 메세지 발송 리스트를 한 눈에 파악 할 수 있고 추가, 삭제, 수정 할 수 있다.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2850" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-121" value="&lt;span style=&quot;font-size: small&quot;&gt;내원한 환자와 수의사가 사진, 동영상 등의 데이터를 기반으로 소통할 수 있다.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2850" width="260" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
