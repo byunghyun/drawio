@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T03:59:15.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="Z6yTWcqo4lmAXEGLYUcP" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T04:04:13.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="t4wcQgAjWeMYG_AyWSnj" version="16.5.6" type="github">
   <diagram id="CAx_kXBRAw6pJOKKykD8" name="Page-1">
     <mxGraphModel dx="922" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -282,11 +282,38 @@
         <mxCell id="qVX0OotuIn6cAt5GHuXx-119" value="예약 발송 관리" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="2850" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#808080;" edge="1" parent="1" source="qVX0OotuIn6cAt5GHuXx-120" target="qVX0OotuIn6cAt5GHuXx-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qVX0OotuIn6cAt5GHuXx-120" value="&lt;font size=&quot;2&quot;&gt;예약, 접종, 팔로우업 메세지 발송 리스트를 한 눈에 파악 할 수 있고 추가, 삭제, 수정 할 수 있다.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="210" y="2850" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qVX0OotuIn6cAt5GHuXx-121" value="&lt;span style=&quot;font-size: small&quot;&gt;내원한 환자와 수의사가 사진, 동영상 등의 데이터를 기반으로 소통할 수 있다.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-121" value="&lt;font size=&quot;2&quot;&gt;예약 문자 리스트를 이용하여 예약판처럼도 사용 할 수 있도록 구현되어있지만 기존에 있던 개념이 아니라 혼란의 여지가 있다.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="520" y="2850" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-126" value="이전 메세지" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2960" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-127" value="&lt;font size=&quot;2&quot;&gt;예약, 접종, 팔로우업 메세지 발송 리스트를 한 눈에 파악 할 수 있고 추가, 삭제, 수정 할 수 있다.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2960" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#808080;" edge="1" source="qVX0OotuIn6cAt5GHuXx-127" target="qVX0OotuIn6cAt5GHuXx-129" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-129" value="&lt;font size=&quot;2&quot;&gt;예약 문자 리스트를 이용하여 예약판처럼도 사용 할 수 있도록 구현되어있지만 기존에 있던 개념이 아니라 혼란의 여지가 있다.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2960" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-130" value="업무 공유" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3070" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-131" value="&lt;font size=&quot;2&quot;&gt;선택한 날짜에 작성된 모든 업무 공유를 한 눈에 볼 수 있도록 하여 커뮤니케이션을 원활하게 한다.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="3070" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#808080;" edge="1" source="qVX0OotuIn6cAt5GHuXx-131" target="qVX0OotuIn6cAt5GHuXx-133" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVX0OotuIn6cAt5GHuXx-133" value="&lt;font size=&quot;2&quot;&gt;예약 문자 리스트를 이용하여 예약판처럼도 사용 할 수 있도록 구현되어있지만 기존에 있던 개념이 아니라 혼란의 여지가 있다.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="3070" width="260" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
